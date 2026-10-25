@@ -49,3 +49,4 @@ npm run dev
 ```
 Brauzerda `http://localhost:5173` manzilida ochiladi.
 # oila-
+# oila-
